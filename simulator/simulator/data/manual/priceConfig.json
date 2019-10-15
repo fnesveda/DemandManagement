@@ -1,0 +1,6 @@
+{
+	"cheapIntervalLength": 60,
+	"cheapMinutesCount": 480,
+	"lowerPrice": 1.0,
+	"higherPrice": 3.0
+}

@@ -1,0 +1,8 @@
+{
+	"airConditioning": 0.9,
+	"electricalHeating": 0.5,
+	"fridge": 0.9,
+	"waterHeater": 0.9,
+	"washingMachine": 0.8,
+	"dishwasher": 0.7
+}
